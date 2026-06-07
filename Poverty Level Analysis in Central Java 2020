@@ -1,0 +1,97 @@
+📊 Poverty Level Analysis in Central Java 2020
+Project Description:
+This project analyzes poverty levels across regencies and cities in Central Java in 2020 using official data from Statistics Indonesia (BPS).
+The analysis aims to identify regions with the highest and lowest poverty rates, compare poverty conditions across regions, and provide insights into socioeconomic disparities within Central Java.
+The findings are presented through statistical summaries, rankings, and visualizations to support a better understanding of regional poverty patterns.
+
+Project Objectives:
+Analyze poverty levels across regencies and cities in Central Java in 2020.
+Compare poverty rates among regions.
+Identify areas with the highest and lowest poverty rates.
+Visualize poverty data through charts and rankings.
+Develop data analysis and interpretation skills using Microsoft Excel.
+
+Tools & Methods:
+Tools Used
+Microsoft Excel
+Descriptive Statistics
+Data Visualization
+Methods Applied
+Data Cleaning
+Data Sorting
+Ranking Analysis
+Descriptive Statistical Analysis
+Comparative Analysis
+Bar Chart Visualization
+Data Interpretation
+
+Dataset:
+Data Source
+Statistics Indonesia (BPS) – Central Java Province, 2020
+
+Variables Used
+Regency/City
+Poverty Rate (%)
+Regional Ranking
+Average Poverty Rate
+Highest Poverty Rate
+Lowest Poverty Rate
+
+Analysis Methodology:
+The following steps were carried out during the analysis:
+Collected poverty data from Statistics Indonesia (BPS).
+Imported and organized the dataset in Microsoft Excel.
+Sorted regions based on poverty rates.
+Ranked regencies and cities according to their poverty levels.
+Calculated the average poverty rate.
+Identified the top 5 regions with the highest poverty rates.
+Identified the top 5 regions with the lowest poverty rates.
+Created bar chart visualizations for comparison.
+Interpreted the results and summarized key findings.
+
+Analysis Results:
+Top 5 Regions with the Highest Poverty Rates
+Rank	Regency/City	Poverty Rate (%)
+1	Kebumen	17.59
+2	Wonosobo	17.36
+3	Brebes	17.03
+4	Pemalang	16.02
+5	Purbalingga	15.90
+Top 5 Regions with the Lowest Poverty Rates
+Rank	Regency/City	Poverty Rate (%)
+31	Kudus	7.31
+32	Jepara	7.17
+32	Pekalongan City	7.17
+34	Salatiga City	4.94
+35	Semarang City	4.34
+Key Findings
+Kebumen Regency recorded the highest poverty rate in Central Java at 17.59%.
+Wonosobo and Brebes also showed relatively high poverty levels, exceeding 17%.
+Semarang City had the lowest poverty rate at 4.34%.
+Salatiga City and Pekalongan City were among the regions with the lowest poverty levels.
+The average poverty rate in Central Java was 11.01%.
+Significant disparities exist between regions with high and low poverty rates.
+
+Discussion:
+The analysis indicates that poverty levels vary considerably across regions in Central Java. These differences may be influenced by several factors, including economic structure, urbanization, employment opportunities, educational access, and regional development.
+Urban areas generally tend to have lower poverty rates due to greater access to economic activities, infrastructure, and public services. In contrast, several rural regions continue to face challenges related to income generation and economic diversification.
+Understanding these regional disparities is important for designing more targeted poverty alleviation and socioeconomic development policies.
+
+Conclusion:
+This analysis highlights significant differences in poverty levels among regencies and cities in Central Java in 2020. Kebumen, Wonosobo, and Brebes were identified as the regions with the highest poverty rates, while Semarang City and Salatiga City recorded the lowest rates.
+The findings emphasize the importance of equitable development strategies and targeted social programs to reduce poverty and improve welfare across all regions of Central Java.
+
+Skills Gained:
+Data Analysis
+Data Cleaning
+Data Visualization
+Descriptive Statistics
+Ranking Analysis
+Microsoft Excel
+Statistical Interpretation
+Socioeconomic Data Analysis
+
+Author:
+Oktaviani Eka Putri
+
+#DataAnalysis #Statistics #Excel #DataVisualization #PovertyAnalysis #CentralJava #BPS #DataAnalytics #PortfolioProject #MicrosoftExcel
